@@ -1,24 +1,26 @@
-[
-  {
-    "city" : "Ahmedabad"
-  },
-  {
-    "city" : "Mumbai"
-  },
-  {
-    "city" : "Delhi"
-  },
-  {
-    "city" : "Chennai"
-  },
-  {
-    "city" : "Lucknow"
-  },
-  {
-    "city" : "Bangluru"
-  },
-  {
-    "city" : "Kolkata"
-  }
-]
+{
+  "location": [
+    {
+      "city" : "Ahmedabad"
+    },
+    {
+      "city" : "Mumbai"
+    },
+    {
+      "city" : "Delhi"
+    },
+    {
+      "city" : "Chennai"
+    },
+    {
+      "city" : "Lucknow"
+    },
+    {
+      "city" : "Bangluru"
+    },
+    {
+      "city" : "Kolkata"
+    }
+  ]
+}
 

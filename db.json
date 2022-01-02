@@ -1,15 +1,24 @@
 [
   {
-    "city": [
-        "Ahmedabad",
-        "Kolkata",
-        "Mumbai",
-        "Bangluru",
-        "Chennai",
-        "Lucknow",
-        "Hyderabad",
-        "Delhi"
-      ]
+    "city" : "Ahmedabad"
+  },
+  {
+    "city" : "Mumbai"
+  },
+  {
+    "city" : "Delhi"
+  },
+  {
+    "city" : "Chennai"
+  },
+  {
+    "city" : "Lucknow"
+  },
+  {
+    "city" : "Bangluru"
+  },
+  {
+    "city" : "Kolkata"
   }
 ]
 
